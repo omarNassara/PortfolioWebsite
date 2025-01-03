@@ -1,0 +1,205 @@
+
+h5
+{
+    text-align: center;
+}
+p
+{
+    text-align: center;
+}
+h1
+{
+    text-align: center;
+    margin: 15px;
+    padding: 90px;
+    background-color: #09c;
+    color: #ffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+body
+{
+    font-family: 'segoe ui light';
+}
+
+.item
+{
+    position: relative;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.item-cabtion
+{
+    background-color: #ffff;
+    padding: 10px;
+    position: absolute;
+    bottom: 30px;
+    left: 10%;
+    width: 80%;
+}
+
+#lightbox-cabtion
+{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+#lightbox-item
+{
+    width: 50%;
+    height: 75vh;
+    background-image: url(../imag/A4-Paper-PSD-MockUp-4-600x600.jpg);
+    background-size: 100% 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+#close
+{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+#close , #prev , #next
+{
+    font-size: 20px;
+    cursor: pointer;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    margin: 0;
+    padding: 0;
+}
+.tests
+{
+    position: relative;    
+    background-image:url(./imag/barber-15.jpg);
+    height: 100%;
+    background-size: 100% 100%;
+    color: #ffff;
+}
+.test h1
+{
+    position:absolute;
+    bottom: 50%;
+    left:  20%;
+    font-size: 58px;
+}
+.test p
+{
+
+    position:absolute;
+    bottom: 38%;
+    left:  20%;
+    font-size: 22px;
+
+}
+.tests .btn1
+{
+    
+   
+    position:absolute;
+    bottom: 29%;
+    left:  20%;  
+    background-color: #ae9768; 
+    padding: 15px 28px;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+}
+.btn1:hover
+{
+    background-color: #ffff;
+}
+
+.tests .btn2
+{
+    border-radius: 5px;
+    font-size: 15px;
+    position:absolute;
+    bottom: 29%;
+    left:  31%;   
+    background-color: #ae9768;
+    padding: 15px 28px;
+    border: none;
+}
+
+
+.btn2:hover
+{
+    background-color: #ffff;
+   
+}
+
+
+*/
+
+
+
